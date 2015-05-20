@@ -1,2 +1,2 @@
 # dog
-first test
+记录学习过程
